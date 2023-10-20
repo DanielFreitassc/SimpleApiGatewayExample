@@ -8,12 +8,12 @@
 While = Branco ⚪️
  print = Verde 🟢
  + = Amarelo   🟡
- - = Preto
+ - = Preto     ⚫
  / = Marrom    🟤
  = = Rosa
  % = Laranja   🟠
  // = Bordo
- ** = Cinza    ⚫ 
+ ** = Cinza     
  > = Castanho
  < = Creme
  >= = Violeta
