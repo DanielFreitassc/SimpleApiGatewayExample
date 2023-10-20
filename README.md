@@ -28,8 +28,6 @@ calipso = else
 elif = kiss
 foofigthrs = for
 mc_pipoquinha = while
-
-
 operadores:
 engenheiros_do_havai = ==
 detonaltas = +=
