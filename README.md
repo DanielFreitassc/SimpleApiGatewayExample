@@ -1,18 +1,19 @@
 # lingugem das cores
+
 ```
- If = Vermelho
- Else = Azul
- Elif = Roxo
- For = Ciano
-While = Branco
- print = Verde
- + = Amarelo
+ If = Vermelho 🔴
+ Else = Azul   🔵
+ Elif = Roxo   🟣
+ For = Ciano   
+While = Branco ⚪️
+ print = Verde 🟢
+ + = Amarelo   🟡
  - = Preto
- / = Marrom
+ / = Marrom    🟤
  = = Rosa
- % = Laranja
+ % = Laranja   🟠
  // = Bordo
- ** = Cinza
+ ** = Cinza    ⚫ 
  > = Castanho
  < = Creme
  >= = Violeta
