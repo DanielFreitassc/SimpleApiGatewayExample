@@ -1,6 +1,6 @@
 # lingugem das cores
 
-````
+```
  If = Vermelho 
  Else = Azul   
  Elif = Roxo  
