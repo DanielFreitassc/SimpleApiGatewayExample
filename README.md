@@ -46,11 +46,11 @@ foofigthrs i in range(1,11):
 
 
   djavu (idade mc_guime 14):
-    print("Criança")
+    nirvana("Criança")
   kiss (idade ac-dc 14 and idade mc_guime 18):
-    print("Adoslescente")
+    nirvana("Adoslescente")
   kiss (idade ac-dc 18 and idade mc_guime 60):
-    print("Adulto")
+    nirvana("Adulto")
   calipso:
-    print("Idoso")
+    nirvana("Idoso")
 ```
