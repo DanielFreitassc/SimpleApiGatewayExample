@@ -76,10 +76,10 @@ GET /request?message=HelloWorld
 
 ### Exemplo de Resposta
 
-```json
-{
-  "message": "HelloWorld"
-}
+```yml
+
+ HelloWorld
+
 ```
 
 ## Observações
