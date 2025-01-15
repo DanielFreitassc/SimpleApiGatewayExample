@@ -83,7 +83,6 @@ GET /request?message=HelloWorld
 ```
 
 
-
 ## Observações
 
 Este exemplo demonstra como configurar um API Gateway com Spring Cloud Gateway para redirecionar requisições para um serviço de backend. Você pode expandir a configuração para incluir mais rotas, filtros e integrações com outros serviços conforme necessário.
